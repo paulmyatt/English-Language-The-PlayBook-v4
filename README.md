@@ -68,6 +68,7 @@ Every example uses a **job-search theme** (CVs, interviews, Actiris appointments
 - [ ] Embed H5P, and more in iFrame
 - [ ] See how LiaScript might work with MS Teams (can we embed?)
 - [ ] Add @Orthography e.g. first letter only scaffold
+- [ ] Fix speech template: 1) better support messages 2) type as hear 3)...
 
 
 **Embededd Audio Clip**
