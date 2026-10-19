@@ -1016,7 +1016,7 @@ Use short inline items for lower levels and the full-text version for higher lev
 
 @SpeechRecognition.support
 
-Say "Hello world":
+Say "Hello world":  
 
 [[!]]
 @SpeechRecognition(en-UK, Hello world)
