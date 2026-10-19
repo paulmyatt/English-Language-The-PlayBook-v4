@@ -1020,6 +1020,9 @@ Use short inline items for lower levels and the full-text version for higher lev
 @SpeechRecognition(en-US, Hello world)
 
 
+https://liascript.github.io/blog/speech-recognition-quiz-in-liascript/
+
+
 # Trainer's Cheat Sheet
  
 ## Quiz syntax at a glance TBC
