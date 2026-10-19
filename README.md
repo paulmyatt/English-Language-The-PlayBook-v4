@@ -1016,8 +1016,10 @@ Use short inline items for lower levels and the full-text version for higher lev
 
 @SpeechRecognition.support
 
+Say "Hello world":
+
 [[!]]
-@SpeechRecognition(en-US, Hello world)
+@SpeechRecognition(en-UK, Hello world)
 
 
 https://liascript.github.io/blog/speech-recognition-quiz-in-liascript/
